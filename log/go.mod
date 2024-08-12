@@ -1,4 +1,4 @@
-module github.com/openchami/chi-mddleware/log
+module github.com/openchami/chi-middleware/log
 
 go 1.21
 
