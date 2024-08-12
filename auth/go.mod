@@ -1,4 +1,4 @@
-module github.com/openchami/chi-mddleware/auth
+module github.com/openchami/chi-middleware/auth
 
 go 1.21
 
