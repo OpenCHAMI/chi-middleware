@@ -3,7 +3,7 @@ module github.com/openchami/chi-middleware/auth
 go 1.21
 
 require (
-	github.com/go-chi/jwtauth/v5 v5.3.1
+	github.com/OpenCHAMI/jwtauth/v5 v5.0.0-20240321222802-e6cb468a2a18
 	github.com/lestrrat-go/jwx/v2 v2.1.1
 )
 
